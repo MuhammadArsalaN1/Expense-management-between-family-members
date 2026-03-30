@@ -179,13 +179,6 @@ src/
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
-```
-
 ---
 
 ### 2️⃣ Install Dependencies
